@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "507ca6db7a572c5f34cd1692",
+  "owner": "fcak4dfp",
+  "repo": "page-406d095c2c107285e76fd3b2",
+  "title": "东方网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "406d095c2c107285e76fd3b2",
+      "a": "东方网络",
+      "b": "小火箭机场推荐",
+      "entity": "东方网络",
+      "brand": "东方网络",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "af02822313f21d2a9c1eb4bd7f79bb6d7831a8b634a2c8b3f9bf123f626a4af8",
+      "content": {
+        "primary_entity": "东方网络",
+        "keyword1": "东方网络",
+        "keyword2": "小火箭机场推荐",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，再导入订阅。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "对比套餐与设备数，选好客户端完成订阅配置。",
+          "AI_CLOSING_TITLE": "东方网络加速订阅",
+          "AI_DESCRIPTION": "，面向需要稳定海外加速的用户，提供基础版、旗舰版与团队版三档订阅。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，并含 IPLC 专线游戏加速优化；团队版每月 1000GB 流量、支持 20 台设备。各档均按年付享有优惠，按需选择即可。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备数量到订阅周期，三点快速了解。",
+          "AI_FEATURES_TITLE": "东方网络使用要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月用量匹配。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台设备，按同时在线数量取舍。",
+          "AI_FEATURE_TITLE_2": "看设备在线数",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，按年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850。",
+          "AI_FEATURE_TITLE_3": "月付与年付",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端订阅配置。",
+          "AI_GUIDE_TITLE": "配置订阅三步",
+          "AI_HERO_INTRO": "东方网络提供基础版、旗舰版与团队版三档海外加速订阅，覆盖 100GB 到 1000GB 月流量，对应 3 到 20 台设备。按用量与设备数选档，再按设备系统选择客户端导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "三档套餐匹配不同设备与流量",
+          "AI_HIGHLIGHT_1": "月付 15 元起，年付更省",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "覆盖 3 至 20 台设备",
+          "AI_PLANS_INTRO": "基础版适合轻量使用，旗舰版兼顾流量与专线，团队版面向多设备场景。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数，在基础版、旗舰版、团队版中选择合适档位。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备系统与网络环境符合客户端使用条件。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅地址，完成节点加载与连接配置。",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "东方网络海外加速",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，旗舰版为5台，团队版为20台。若日常在手机、电脑、平板间切换，可先按常用设备数量选择，后续需求增加再升级套餐。",
+          "AI_FAQ_ANSWER_2": "月付适合短期体验，基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月。若打算长期使用，按年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FAQ_ANSWER_3": "以客户端文档给出的地址为准，复制订阅链接后粘贴到客户端导入界面，保存并更新节点列表即可。若导入失败，检查链接是否完整、网络是否正常，再重新粘贴一次。",
+          "AI_FAQ_ANSWER_4": "旗舰版面向流媒体与游戏场景，提供全节点原生流媒体解锁和 IPLC 专线游戏加速优化。基础版解锁基础流媒体，团队版则侧重多设备与高带宽节点。",
+          "AI_FAQ_ANSWER_5": "先看设备数量，再看月流量。单人手机电脑用基础版即可；常看流媒体或用游戏加速可选旗舰版；多设备或小型团队建议团队版，1000GB 流量与20台设备更充裕。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_2": "月付和年付怎么选更划算？",
+          "AI_FAQ_QUESTION_3": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "旗舰版的流媒体和游戏加速适合哪些场景？",
+          "AI_FAQ_QUESTION_5": "怎么判断该选基础版、旗舰版还是团队版？",
+          "AI_FAQ_TITLE": "常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "cfcdb35388c34b23943a59cac98537d33a94747daa7281ae8f117fc832ca417b",
+    "sitemap.xml": "af5c1ca2c3476e67fef03b83026876859000f7e04734540aad377311c31e64dd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "1431cecd1bec49ccdc5dcb1caa80cbca2e2c340a28d7e4c4bfc76ae8a9ebbb1a"
+}
